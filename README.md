@@ -1,0 +1,1 @@
+# Vault-aws-auth-method
